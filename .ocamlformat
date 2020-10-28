@@ -7,3 +7,4 @@ sequence-style=separator
 break-before-in=auto
 if-then-else=keyword-first
 parse-docstrings=false
+
